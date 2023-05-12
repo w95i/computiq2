@@ -1,0 +1,21 @@
+.hr{
+  width: 20%;
+  color: white;
+  border-top: 4px solid white;
+  margin: 3px auto;
+}
+.hr2{
+  width: 20%;
+  color: black;
+  border-top: 4px solid black;
+  margin: 3px auto;
+}
+.bodyColor{
+  background-color: darkslateblue;
+}
+.workColor{
+  background-color: rgb(251, 210, 251);
+}
+.title{
+  color: white;
+}
